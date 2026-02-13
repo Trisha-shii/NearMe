@@ -225,6 +225,6 @@ Boating and bird watching are popular tourist activities here.
 ```
 ## OUTPUT
 
-![alt text](<Screenshot 2026-02-13 205208-1.png>)
+(<Screenshot 2026-02-13 205208-1.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
