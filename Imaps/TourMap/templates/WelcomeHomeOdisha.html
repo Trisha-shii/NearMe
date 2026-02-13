@@ -1,0 +1,27 @@
+{% load static %}
+
+<html>
+<head>
+<title>Places Around Me</title>
+</head>
+
+<body>
+
+<h1 align="center"><font color="purple">Places Around My House</font></h1>
+
+<center>
+    <img src="{% static 'images/orissa-tourist-map.jpg' %}" usemap="#OdishaMap">
+</center>
+
+
+
+<map name="OdishaMap">
+    <area shape="circle" coords="426,315,8" href="/JagannathPuri/">
+    <area shape="circle" coords="387,327,15" href="/ChilikaLake/">
+    <area shape="circle" coords="480,300,15" href="/KonarkSunTemple/">
+    <area shape="circle" coords="472,119,19" href="/SimilipalNationalPark/">
+    <area shape="circle" coords="299,155,14" href="/UshaKothiWildlifeSanctuary/">   
+</map>
+
+</body>
+</html>
