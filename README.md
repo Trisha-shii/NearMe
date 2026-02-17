@@ -225,6 +225,13 @@ Boating and bird watching are popular tourist activities here.
 ```
 ## OUTPUT
 
-(<Screenshot 2026-02-13 205208-1.png>)
+<img width="1561" height="938" alt="Screenshot 2026-02-13 205208" src="https://github.com/user-attachments/assets/bcf15041-7304-4765-a919-5dc3d83ef92a" />
+<img width="1919" height="931" alt="Screenshot 2026-02-13 205308" src="https://github.com/user-attachments/assets/1ae1f917-cdc4-4f1a-b728-6a61b6140f27" />
+<img width="1919" height="918" alt="Screenshot 2026-02-13 205333" src="https://github.com/user-attachments/assets/77c061d7-c7b1-4697-b7bb-7ec653544d2a" />
+<img width="1919" height="728" alt="Screenshot 2026-02-13 205351" src="https://github.com/user-attachments/assets/4fea87e0-0da8-4ec1-ad6c-4884ff369373" />
+<img width="1909" height="919" alt="Screenshot 2026-02-13 205408" src="https://github.com/user-attachments/assets/e4b2595d-656a-4988-9cc1-74a700683f16" />
+<img width="1904" height="860" alt="Screenshot 2026-02-13 205428" src="https://github.com/user-attachments/assets/13db30e9-57eb-4fb4-ab2c-ac4b2fd3b763" />
+
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
